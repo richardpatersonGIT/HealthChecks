@@ -1,5 +1,3 @@
-sc query "SAS [DIserver-Lev1] Deployment Tester Server" >%1
+REM using >> will append to file
 
-sc query "SAS [DIserver-Lev1] SASMeta - Metadata Server" >%1
-
-powershell get-service SAS* >>%1
+powershell get-service SAS* >%1

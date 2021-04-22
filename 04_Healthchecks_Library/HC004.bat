@@ -1,2 +1,0 @@
-
-C:\SAS\DIserver\Lev1\SASApp\BatchServer\sasbatch.bat -log C:\SAS\DIserver\Lev1\SASApp\BatchServer\Logs\Test_#Y.#m.#d_#H.#M.#s.log  -batch -noterminal -logparm "rollover=session" -sysin C:\Home\01_Projects\TechOps\CDM\Scripts\SAS\hc004.sas -sysparm "%1"

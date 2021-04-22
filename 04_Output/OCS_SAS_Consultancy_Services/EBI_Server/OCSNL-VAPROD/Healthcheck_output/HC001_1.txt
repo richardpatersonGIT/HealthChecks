@@ -1,0 +1,25 @@
+ Volume in drive C is Windows 
+ Volume Serial Number is AEFB-8241
+
+ Directory of c:\
+
+07/15/2020  09:43 PM    <DIR>          01_DESI
+07/14/2020  06:40 PM    <DIR>          Atlassian
+03/19/2021  05:47 PM    <DIR>          cstGlobalLibrary
+03/19/2021  05:46 PM    <DIR>          cstSampleLibrary
+09/22/2020  02:36 PM    <DIR>          cygwin64
+04/22/2021  12:21 PM    <DIR>          Home
+12/21/2020  05:20 PM    <DIR>          LSF_10.1
+07/24/2020  07:45 PM    <DIR>          Microsoft
+04/19/2021  02:07 PM    <DIR>          Program Files
+04/16/2021  09:20 AM    <DIR>          Program Files (x86)
+08/27/2020  11:59 AM    <DIR>          RPS
+03/25/2021  03:57 PM    <DIR>          SAS
+03/30/2021  09:48 AM    <DIR>          SASDepot
+05/18/2020  12:05 PM    <DIR>          SASonCentos
+07/14/2020  06:38 PM    <DIR>          SquirrelTemp
+04/16/2021  09:44 AM    <DIR>          totalcmd
+07/15/2020  02:22 PM    <DIR>          Users
+04/20/2021  05:31 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+              18 Dir(s)  19,486,412,800 bytes free

@@ -1,0 +1,6 @@
+Customer,Solution_Name,Solution_Description,Tier,Install_directory,Configuration_name,Configuration_directory,Host_Name,Host_FQDN,IP_Address,User,Password
+OCS SAS Consultancy Services,EBI Server,Enterprise BI Server,Foundation,D:\SASHome,,,OCSNL-VAPROD,ocsnl-vaprod.internal.ocs-consulting.com,172.16.20.203,,
+OCS SAS Consultancy Services,EBI Server,Enterprise BI Server,Meta,,Lev1,D:\SAS\Config\Lev1,OCSNL-VAPROD,ocsnl-vaprod.internal.ocs-consulting.com,172.16.20.204,,
+OCS SAS Consultancy Services,EBI Server,Enterprise BI Server,Compute,,Lev1,D:\SAS\Config\Lev1,OCSNL-VAPROD,ocsnl-vaprod.internal.ocs-consulting.com,172.16.20.205,,
+OCS SAS Consultancy Services,EBI Server,Enterprise BI Server,Web,,Lev1,D:\SAS\Config\Lev1,OCSNL-VAPROD,ocsnl-vaprod.internal.ocs-consulting.com,172.16.20.206,,
+OCS Life Sciences,,,,,,,, ,,,

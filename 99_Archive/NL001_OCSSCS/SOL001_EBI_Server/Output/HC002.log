@@ -1,0 +1,20 @@
+
+SERVICE_NAME: SAS [DIserver-Lev1] Deployment Tester Server 
+        TYPE               : 10  WIN32_OWN_PROCESS  
+        STATE              : 1  STOPPED 
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        WAIT_HINT          : 0x0
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  SAS [DIserver-L... SAS [DIserver-Lev1] Connect Spawner   
+Stopped  SAS [DIserver-L... SAS [DIserver-Lev1] Deployment Test...
+Running  SAS [DIserver-L... SAS [DIserver-Lev1] Object Spawner    
+Running  SAS [DIserver-L... SAS [DIserver-Lev1] SASMeta - Metad...
+Running  SAS Deployment ... SAS Deployment Agent                  
+Running  SAS Document Co... SAS Document Conversion Server        
+Stopped  SAS PC Files Se... SAS PC Files Server                   
+
+
